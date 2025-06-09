@@ -16,3 +16,14 @@ git restore testing.py
 git status
 git add testing.py
 git status
+git remote set-url origin
+git remote -v
+git remote set-url origin 
+git push origin master
+git add demo.py
+
+git status
+git commit -m "added demo files"
+git status
+git remote set-url origin 
+git push origin master
