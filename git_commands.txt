@@ -45,7 +45,7 @@ git push origin master
    77  cd b1
    78  cd ..
    79  cd
-   80  /mnt/e/AWS DevOps Roadmap/day 2/github_for_devops/b1
+   80 /mnt/e/AWS DevOps Roadmap/day 2/github_for_devops/b1
    81  history
    82  git origin set url
    83  git origin set url   
