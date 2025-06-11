@@ -27,3 +27,56 @@ git commit -m "added demo files"
 git status
 git remote set-url origin 
 git push origin master
+ cd..
+   63  cd ..
+   64  git push origin master
+   65  git push origin test
+   66  git remote -v
+   67  git remote set-url origin https://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@github.com/Bharati1208/github_for_devops.git
+   68  git push origin test
+   69  git push origin master
+   70  git add b2.py
+   71  cd b1
+   72  git add b2.py
+   73  git status
+   74  git add b1
+   75  cd
+   76  cd github_for_devops
+   77  cd b1
+   78  cd ..
+   79  cd
+   80  /mnt/e/AWS DevOps Roadmap/day 2/github_for_devops/b1
+   81  history
+   82  git origin set ur;l https://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@github.com/Bharati1208/github_for_devops.git 
+   83  git origin set url https://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@github.com/Bharati1208/github_for_devops.git  
+   84  git remote set url https:////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@github.com/Bharati1208/github_for_devops.git
+   85  git status
+   86  git add git_commands.txt
+   87  git commit -m "addedd new commands"
+   88  git push origin master
+   89  git status
+   90  git switch master
+   91  git commit -m "addedd new commands"
+   92  git add git_commands.txt
+   93  git commit -m "addedd new commands"
+   94  git push origin master
+   95  git remote set url https:////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@github.com/Bharati1208/github_for_devops.git
+   96  git remote set-url origin https:////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@github.com/Bharati1208/github_for_devops.git
+   97  git push origin master
+   98  git remote -v
+   99  git remote set-url origin  https://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@github.com/Bharati1208/github_for_devops.git
+  100  git push origin master
+  101  git add git_commands.txt
+  102  git commit --amend
+  103  git push origin master --force
+  104  git push origin master --force
+  105  cd b1
+  106  touch b2.py
+  107  git add b1
+  108  git commit -m "new folder"
+  109  git status
+  110  git push origin master
+  111  git pull origin master
+  112  grep 'print' b3.py
+  113  ps aux | grep python
+  114  history
