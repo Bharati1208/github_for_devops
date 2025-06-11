@@ -18,21 +18,21 @@ git add testing.py
 git status
 git remote set-url origin
 git remote -v
-git remote set-url origin 
+#git remote set-url origin 
 git push origin master
 git add demo.py
 
 git status
 git commit -m "added demo files"
 git status
-git remote set-url origin 
+#git remote set-url origin 
 git push origin master
  cd..
    63  cd ..
    64  git push origin master
    65  git push origin test
    66  git remote -v
-   67  git remote set-url 
+   #67  git remote set-url 
    68  git push origin test
    69  git push origin master
    70  git add b2.py
@@ -41,15 +41,15 @@ git push origin master
    73  git status
    74  git add b1
    75  cd
-   76  cd github_for_devops
+   76  #cd github_for_devops
    77  cd b1
    78  cd ..
    79  cd
-   80 /mnt/e/AWS DevOps Roadmap/day 2/github_for_devops/b1
+   80 #/mnt/e/AWS DevOps Roadmap/day 2/github_for_devops/b1
    81  history
-   82  git origin set url
-   83  git origin set url   
-   84  git remote set url 
+   #82  git origin set url
+   #83  git origin set url   
+   #84  git remote set url 
    85  git status
    86  git add git_commands.txt
    87  git commit -m "addedd new commands"
@@ -60,11 +60,11 @@ git push origin master
    92  git add git_commands.txt
    93  git commit -m "addedd new commands"
    94  git push origin master
-   95  git remote set url 
-   96  git remote set-url origin
+   #95  git remote set url 
+   #96  git remote set-url origin
    97  git push origin master
    98  git remote -v
-   99  git remote set-url origin  
+   #99  git remote set-url origin  
   100  git push origin master
   101  git add git_commands.txt
   102  git commit --amend
