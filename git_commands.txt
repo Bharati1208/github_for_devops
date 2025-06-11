@@ -32,7 +32,7 @@ git push origin master
    64  git push origin master
    65  git push origin test
    66  git remote -v
-   67  git remote set-url origin https://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@github.com/Bharati1208/github_for_devops.git
+   67  git remote set-url 
    68  git push origin test
    69  git push origin master
    70  git add b2.py
@@ -47,9 +47,9 @@ git push origin master
    79  cd
    80  /mnt/e/AWS DevOps Roadmap/day 2/github_for_devops/b1
    81  history
-   82  git origin set ur;l https://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@github.com/Bharati1208/github_for_devops.git 
-   83  git origin set url https://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@github.com/Bharati1208/github_for_devops.git  
-   84  git remote set url https:////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@github.com/Bharati1208/github_for_devops.git
+   82  git origin set url
+   83  git origin set url   
+   84  git remote set url 
    85  git status
    86  git add git_commands.txt
    87  git commit -m "addedd new commands"
@@ -60,11 +60,11 @@ git push origin master
    92  git add git_commands.txt
    93  git commit -m "addedd new commands"
    94  git push origin master
-   95  git remote set url https:////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@github.com/Bharati1208/github_for_devops.git
-   96  git remote set-url origin https:////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@github.com/Bharati1208/github_for_devops.git
+   95  git remote set url 
+   96  git remote set-url origin
    97  git push origin master
    98  git remote -v
-   99  git remote set-url origin  https://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@github.com/Bharati1208/github_for_devops.git
+   99  git remote set-url origin  
   100  git push origin master
   101  git add git_commands.txt
   102  git commit --amend
